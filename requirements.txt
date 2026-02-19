@@ -2,6 +2,7 @@ os
 numpy
 pandas
 yfinance
-google.generativeai
+google
 sklearn
 matplotlib
+joblib
