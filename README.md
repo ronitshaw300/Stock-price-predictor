@@ -15,11 +15,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 
-<!-- BADGES ROW 3 -->
-![GitHub Stars](https://img.shields.io/github/stars/your-username/stock-prediction-llm?style=for-the-badge&color=fbbf24&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/stock-prediction-llm?style=for-the-badge&color=60a5fa&logo=github)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/stock-prediction-llm?style=for-the-badge&color=f87171&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/stock-prediction-llm?style=for-the-badge&color=34d399&logo=git&logoColor=white)
+
 
 <br/>
 
