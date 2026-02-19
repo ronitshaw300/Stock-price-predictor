@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Stock%20Prediction%20LLM&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Stock%20Forecasting%20with%20Google%20Gemini&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Stock%20Prediction%20LLM&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Stock%20Forecasting%20with%20Google%20Gemini%20by%20Ranit%20Shaw&descAlignY=55&descSize=18"/>
 
 <!-- BADGES ROW 1 -->
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
