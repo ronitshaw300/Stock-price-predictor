@@ -1,0 +1,7 @@
+os
+numpy
+pandas
+yfinance
+google.generativeai
+sklearn
+matplotlib
