@@ -1,8 +1,9 @@
-
-numpy
+streamlit
 pandas
-yfinance
-google
-sklearn
+numpy
 matplotlib
+scikit-learn
+yfinance
+google-generativeai
+python-dotenv
 joblib
