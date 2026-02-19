@@ -1,4 +1,4 @@
-os
+
 numpy
 pandas
 yfinance
