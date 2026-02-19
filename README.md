@@ -167,10 +167,10 @@ Then open **http://localhost:8501** in your browser. 🎉
 stock-prediction-llm/
 │
 ├── app.py                  # Main Streamlit application
-├── predictor.py            # Prediction logic (Baseline + Gemini)
-├── data_fetcher.py         # Yahoo Finance API handler
-├── visualizer.py           # Matplotlib chart generators
-├── metrics.py              # MAE, RMSE, R² computation
+├── accuracy.py            # shows accuracy
+├       
+├       
+├            
 │
 ├── .env                    # API keys (DO NOT commit)
 ├── .gitignore
